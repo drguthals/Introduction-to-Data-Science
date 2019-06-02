@@ -86,7 +86,7 @@ Run each tile and ensure it is working.
 Try different images, create other cognitive services such as text analytics, and explore the [Azure docs](https://docs.microsoft.com/en-us/azure/). 
 
 8. Write Up  
-Spend 20-30 minutes writing. If you cannot describe your work to others, what is the point?
+Spend 20-30 minutes writing. If you cannot describe your work to others, what is the point?  
   a. What was the goal of your application? (People problem)  
   b. What is difficult about the goal? (Technical problem)  
   c. What data did you use to explore?  
