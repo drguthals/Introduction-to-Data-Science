@@ -3,7 +3,7 @@ This repository contains and introduction to data science for High School studen
 
 ## About
 This curriculum assumes that you have none to minimal experience with coding or data science. This curriculum is estimated to take approximately four weeks to complete, with optional extensions and projects that go beyond the specific curriculum. The general outline of the curriculum is as follows:
-1. General Introduction to Azure  
+1. [General Introduction to Azure](Module1.md)  
 In this module, you will get a general introduction to all of the tools that you will be using and the way Data Scientists think about solving problems. 
 
 2. Introduction to Python for Data Science  
