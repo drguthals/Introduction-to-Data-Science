@@ -87,12 +87,12 @@ Try different images, create other cognitive services such as text analytics, an
 
 8. Write Up  
 Spend 20-30 minutes writing. If you cannot describe your work to others, what is the point?
-1. What was the goal of your application? (People problem)  
-2. What is difficult about the goal? (Technical problem)  
-3. What data did you use to explore?  
-4. What gaps in data did you find?  
-5. What conclusions were you able to draw?  
-6. What conclusions were you not able to draw?  
-7. How would you proceed?  
+  a. What was the goal of your application? (People problem)  
+  b. What is difficult about the goal? (Technical problem)  
+  c. What data did you use to explore?  
+  d. What gaps in data did you find?  
+  e. What conclusions were you able to draw?  
+  f. What conclusions were you not able to draw?  
+  g. How would you proceed?  
 
 9. Download your file and upload it to GitHub as a Pull Request.
