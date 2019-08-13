@@ -1,4 +1,4 @@
-# Basketball Summer Internship 2019
+# Summer Basketball Internship 2019
 
 ## Data Exploration
 <1-3 setences of what the goal was>
