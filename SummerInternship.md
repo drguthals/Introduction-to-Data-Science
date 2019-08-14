@@ -23,8 +23,16 @@ This pie chart tells us that out of all the MISSED field goals during the 2018-1
 
 
 
-#### Outcome Based on Three-Point Attempt
+#### Outcome Based on Three-Point Attempts
 <img width="482" alt="Screen Shot 2019-08-14 at 3 10 46 AM" src="https://user-images.githubusercontent.com/51301795/63014629-d5c42a80-be43-11e9-802a-1662f68c8a6e.png">
 
 This pie chart tells us that out of all the ATTEMPTED three-point field goals during the 2018-19 NBA season, 65% of the attempts were misses while 35% of the attempts were makes. This aligns with most people's predictions because a three-pointer is obviously farther from the basket than any other type of shot, thus making it harder to make. We can gather from the graph that the NBA league wide three-point shooting percentage is about 35% (.355 to be exact). A common misconception is that since only 35% of three-point field goal attempts were made, NBA players should strictly stick to attempting two-point field goals which are naturally closer to the basket. However, Over the last 20 years, NBA players have averaged 1.05 points per above-the-break three and 1.16 points per corner three. In contrast, players have averaged just 0.79 points per two-point attempt outside of the key. In other words, 100 mid-range jumpers will provide 79 points on average, while 100 above-the-break 3s would provide 105 points on average. This the reasoning behind many teams' recent shift towards shooting more threes and layups and avoiding mid-range jumpers which yield less points yet are almost equally hard to make. 
+
+
+
+#### Shot-Clock Situation Based on Made Shots
+<img width="522" alt="Screen Shot 2019-08-14 at 3 31 14 AM" src="https://user-images.githubusercontent.com/51301795/63014788-32274a00-be44-11e9-9d05-a26d8062dd97.png">
+
+This pie chart tells us that out of all the MADE field goals during the 2018-19 NBA season, 50% of the makes were standard shots (taken with between 8-16 seconds left on the shot clock), 28% of the makes were rushed shots (taken with between 16-24 seconds left on the shot clock), and 19% of the makes were desperate shots (taken with between 0-8 seconds left on the shot clock). As one would imagine, players find more shooting success when their team takes the time to settle into their offensive sets (which might create more space for the shooter etc...) without waiting until the last second which would put too much pressure on the shooter to actually make the shot. On the other hand, only 19% of the makes were desperation shots; this is understandable because opposing teams know to apply more defensive pressure as the clock winds down, causing the shooter to huck up a heavily contested, forced shot. Additionally, players are simply be more fatigued at the end of the play, causing them to miss last second shots. The rushed shot, however, presents an interesting case. One might think to him/herself: How was a whopping 28% of all made shots attempted within the first eight seconds of inbounding the ball all the way at the other end of the court? In fact, most of the shots we considered to be "rushed" were actually stolen in the back court right as the opposing team inbounded the ball, meaning that the player who stole the ball would simply have to dribble a few feet and lay the ball in the basket - a task that can easily be completed within eight seconds. 
+
 
