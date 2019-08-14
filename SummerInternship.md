@@ -29,7 +29,9 @@ Based on one type of jump, what is the likelihood of close made vs miss and far 
 <img width="482" alt="Screen Shot 2019-08-14 at 3 10 46 AM" src="https://user-images.githubusercontent.com/51301795/63014629-d5c42a80-be43-11e9-802a-1662f68c8a6e.png">
 
 This pie chart tells us that out of all the ATTEMPTED three-point field goals during the 2018-19 NBA season, 65% of the attempts were misses while 35% of the attempts were makes. This aligns with most people's predictions because a three-pointer is obviously farther from the basket than any other type of shot, thus making it harder to make. We can gather from the graph that the NBA league wide three-point shooting percentage is about 35% (.355 to be exact). A common misconception is that since only 35% of three-point field goal attempts were made, NBA players should strictly stick to attempting two-point field goals which are naturally closer to the basket. However, Over the last 20 years, NBA players have averaged 1.05 points per above-the-break three and 1.16 points per corner three. In contrast, players have averaged just 0.79 points per two-point attempt outside of the key. In other words, 100 mid-range jumpers will provide 79 points on average, while 100 above-the-break 3s would provide 105 points on average. This the reasoning behind many teams' recent shift towards shooting more threes and layups and avoiding mid-range jumpers which yield less points yet are almost equally hard to make. 
-
+#### Future Graphs:
+- Are you more likely to make a three-pointer from a certain location?
+- Are you more likely to make a three-pointer based on your shot-clock situation?
 
 
 #### Shot-Clock Situation Based on Made Shots
