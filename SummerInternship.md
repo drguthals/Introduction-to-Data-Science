@@ -38,6 +38,6 @@ This pie chart tells us that out of all the MADE field goals during the 2018-19 
 
 
 #### Finding the Optimal Shooting Time
-<img width="674" alt="Screen Shot 2019-08-14 at 4 03 09 AM" src="https://user-images.githubusercontent.com/51301795/63016446-8b917800-be48-11e9-8418-c2aaae2cac2b.png">
+<img width="674" alt="Screen Shot 2019-08-14 at 4 03 09 AM" src="https://user-images.githubusercontent.com/51301795/63016586-e7f49780-be48-11e9-80cb-72c1fe6cedfd.png">
 
 <img width="309" alt="Screen Shot 2019-08-14 at 4 04 38 AM" src="https://user-images.githubusercontent.com/51301795/63016528-c98e9c00-be48-11e9-9197-ceb5f2fd0942.png">
